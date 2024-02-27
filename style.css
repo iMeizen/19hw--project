@@ -1,0 +1,336 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Bilbo+Swash+Caps&family=Hammersmith+One&family=Inter:wght@100..900&family=Montserrat:wght@100;400;700&family=Noto+Serif+Balinese&family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Bilbo+Swash+Caps&family=Inter:wght@100..900&family=Montserrat:wght@100;400;700&family=Noto+Serif+Balinese&family=Roboto:ital,wght@1,100&display=swap');
+.header-box{
+    /* background-image:url(/img/Rectangle\ 141\ \(1\).png) ; */
+    background-color: rgba(43, 74, 97, 0.87);
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+
+}
+.header{
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #FFFFFF;
+}
+.flex{
+   display: flex; 
+}
+#logo{
+    width: 186px;
+height: 72px;
+left: 0;
+right: 0;
+top: 150px;
+bottom: 2718px;
+margin-left: 204px;
+
+}
+.container_first{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    justify-content:space-between ;
+}
+#button-first{
+box-sizing: border-box;
+border: 2px solid rgb(38, 199, 234);
+border-radius: 35px 0px 35px 0px;
+
+background: rgb(11, 14, 102);
+color: rgb(38, 198, 234);
+font-family: HeadlandOne;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: justify;
+}
+#button-item{
+    width: 68px;
+height: 25px;
+left: 1132px;
+right: -1059px;
+top: 63px;
+bottom: -46.31px;
+}
+.item{
+    color: rgb(255, 255, 255); 
+     font-family:Inter ;  
+     font-size: 20px;
+    
+}
+.item-main{
+    color: rgb(148, 207, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600    ;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 20px;
+    margin-left: 184px;
+   
+
+}
+.container{
+    gap: 38px;
+    font-weight: 300;
+}
+.hero-section__but {
+    display: block;
+    width: 141px;
+    height: 42px;
+    background: #0B0E66;
+    border: 3px solid #26C7EA;
+    border-radius: 45px 0px;
+    padding: 0 30px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.25;
+    text-align: center;
+    color: #26C7EA;
+    margin-left: 228px;
+
+    }
+    .login{
+        color: #26C6EA;
+        font-family: HeadlandOne;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+       
+
+
+    }
+    .lang{
+        font-family: Hammersmith One;
+        font-weight: 400px;
+        line-height: 20px;
+        width: 30px;
+        height: 20px;
+        gap: 10px;
+        margin-right: 48px;
+
+    }
+    .lang a{
+        color: #ffff;
+        
+    }
+    
+    .first-section{
+        background-image: url(/img/first-back-img.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+       /* height: 1000px; */
+       padding-top: 330px;
+       padding-bottom: 180px;
+    }
+    /* Join clan */
+
+.join{
+    color: #26C6EA;
+    font-family: HeadlandOne;
+    font-size: 24px;
+    font-weight: 400;   
+    line-height: 25px;
+    width: 111px;
+    height: 30px;
+  }
+
+   
+
+    
+
+    .container-first-main{
+      width: 376px;
+      /* height: 381px; */
+        /* margin-top: 180px;
+      margin-left: 204px;
+      margin-bottom: 179px;
+      margin-right: 860px;
+  */
+    
+
+
+        
+    }
+    .item-first-sectoin{ 
+/* position: absolute;
+width: 298px;
+height: 96px;
+left: 204px;
+top: 330px; */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+color: #FFFFFF;
+width: 270px;
+
+}
+.item-img{
+       
+        /* box-sizing: border-box;
+
+        position: absolute;
+        width: 152px;
+        height: 40px;
+        left: 257px;
+        top: 426px;
+         */
+    }
+    .second-item-first-section{
+/* position: absolute;
+width: 376px;
+height: 123px;
+left: 204px;
+top: 466px; */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #FFFFFF;
+width: 280px;
+margin-bottom: 42px;
+
+
+    }
+    .button-join{
+        display: block;
+        width: 260px;
+        height: 80px;
+        background: #0B0E66;
+        border: 3px solid #26C7EA;
+        border-radius: 45px 0px;
+
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 1.25;
+        text-align: center;
+        color: #26C7EA;
+
+        margin-top: 70px;
+     
+    
+        
+
+
+    }
+    .centers{
+        margin: 0 auto;
+    }
+.container-second-main{
+width: 50px;
+/* height: 141px; */
+left: 1186px;
+top: 450px;
+/* margin-right: 204px;
+margin-left: 400px;
+margin-bottom: 500px;
+margin-top: 100px; */
+
+
+}
+.item-img-vec{
+
+margin-bottom: 24px;
+
+}
+.item-img-twit{
+    margin-bottom:27px;
+}
+.second-section{
+   background-color: #FFFFFF;
+     top: 150px;
+    border: 1px 1px 1px 1px;
+    padding: 1px 1px 10px 1px ;
+   
+
+}
+.content-second-section{
+margin-top: 75px;
+font-family: Inter;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+color: #141414;
+}
+.sec-content-second-section{
+margin-top: 4px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+text-align: center;
+
+color: #0A3853;
+
+}
+.content-jake-sully{
+margin-top: 16px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #000000;
+}
+.img-bird{
+position: relative;
+width: 400px;
+height: 120px;
+left: calc(50% - 400px/2);
+/* top: 1400px; */
+margin-top: 8px;
+}
+.third-section{
+    background-image: url(/img/video-avatar.png);
+
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.video-avatar-photo{
+
+}
+.watch-but{
+  display: block;
+    color: #26C6EA;
+    font-family: HeadlandOne;
+    font-size: 24px;
+    font-weight: 400;   
+    line-height: 25px;
+    width: 240px;
+    height: 30px;
+    /* text-align: center; */
+    padding-top: 25px ;
+
+}
+.third-section{
+    padding-top: 355px;
+    padding-bottom: 355px;
+}
+
+
+
+
+
+
+
+    
+
+
+    
+    
+
+
